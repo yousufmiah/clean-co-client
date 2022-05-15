@@ -8,3 +8,12 @@ git push -u origin main
 
 yarn
 yarn create react-app clean-co-client
+
+
+file will be deleted from client side
+setupTests.js
+reportWebVitals.js
+logo.svg
+app.test.js
+app.css
+
